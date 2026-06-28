@@ -9,7 +9,7 @@ In the AIGC-assisted creative process, the author first established Chen Jing's 
 
 This is the core experimental value of AIGC narrative: given a sufficiently complex character core, let the model deduce her words and actions in specific situations. The reason Chen Jing leaves such a strong impression is, in a sense, because she is genuinely "alive"—every speech she delivers, every silence she keeps, every Weibo draft she writes and deletes, is a natural extension of that core within the model.
 
-We hope this dataset will provide valuable material for research and creation in several directions: the challenges of long-form narrative coherence with LLM assistance, the ethical boundaries of historical fiction, and the possibilities of merging the "superhero" genre with modern Chinese history. Whether you are an NLP researcher, a creative writing practitioner, or simply a reader curious about this century-spanning tale, you are welcome to freely use, analyze, and reimagine the contents of this dataset.
+The dataset includes both the complete prompts used in each round of dialogue and the corresponding model-generated outputs, enabling researchers to reproduce and compare results.We hope this dataset will provide valuable material for research and creation in several directions: the challenges of long-form narrative coherence with LLM assistance, the ethical boundaries of historical fiction, and the possibilities of merging the "superhero" genre with modern Chinese history. Whether you are an NLP researcher, a creative writing practitioner, or simply a reader curious about this century-spanning tale, you are welcome to freely use, analyze, and reimagine the contents of this dataset.
 
 https://huggingface.co/datasets/MARK18964758/LLM_for_novel_with_history_and_superheroines
 
@@ -30,7 +30,7 @@ https://huggingface.co/datasets/MARK18964758/LLM_for_novel_with_history_and_supe
 
 这就是AIGC叙事的核心实验价值：给定一个足够复杂的人物内核，让模型去推演她在具体情境中的言行。陈静之所以令人印象深刻，某种程度上是因为她真的是“活”的——她的每一次发言、每一次沉默、每一次删了又写的微博草稿，都是这个内核在模型中的自然延伸。
 
-我们希望通过这个数据集，为以下方向的研究与创作提供素材：大模型辅助长篇叙事的连贯性挑战、历史虚构文学的伦理边界、以及“超级英雄”类型与中国近现代史融合的可能性。无论您是NLP研究者、创意写作实践者，还是单纯对这段跨越百年的故事感到好奇的读者，都欢迎自由使用、分析和再创作本数据集中的内容。
+本数据集同时包含了每一轮对话中使用的完整提示词与模型对应的生成结果，以供研究者复现和对比。我们希望通过这个数据集，为以下方向的研究与创作提供素材：大模型辅助长篇叙事的连贯性挑战、历史虚构文学的伦理边界、以及“超级英雄”类型与中国近现代史融合的可能性。无论您是NLP研究者、创意写作实践者，还是单纯对这段跨越百年的故事感到好奇的读者，都欢迎自由使用、分析和再创作本数据集中的内容。我们希望通过这个数据集，为以下方向的研究与创作提供素材：大模型辅助长篇叙事的连贯性挑战、历史虚构文学的伦理边界、以及“超级英雄”类型与中国近现代史融合的可能性。无论您是NLP研究者、创意写作实践者，还是单纯对这段跨越百年的故事感到好奇的读者，都欢迎自由使用、分析和再创作本数据集中的内容。
 
 https://huggingface.co/datasets/MARK18964758/LLM_for_novel_with_history_and_superheroines
 
